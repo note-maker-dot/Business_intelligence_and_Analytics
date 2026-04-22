@@ -18,7 +18,7 @@ Specifically designed for **NPTEL BI & Analytics**, **MBA Business Analytics**, 
 
 ## 📂 Download Free Sample Notes
 Before purchasing, review our high-resolution samples to verify the quality:
-* 📄 [Download Week 1]([./samples/Week1_Sample.pdf](https://github.com/note-maker-dot/Business_intelligence_and_Analytics/blob/main/Week1.pdf))
+* 📄 [Download Week 1](Week1.pdf)
 
 ---
 
