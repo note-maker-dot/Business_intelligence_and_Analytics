@@ -18,8 +18,7 @@ Specifically designed for **NPTEL BI & Analytics**, **MBA Business Analytics**, 
 
 ## 📂 Download Free Sample Notes
 Before purchasing, review our high-resolution samples to verify the quality:
-* 📄 [Download Week 1: BI Foundations & ETL Architecture](./samples/Week1_Sample.pdf)
-* 📄 [Download Week 6: Machine Learning & Regression Logic](./samples/Week6_Sample.pdf)
+* 📄 [Download Week 1]([./samples/Week1_Sample.pdf](https://github.com/note-maker-dot/Business_intelligence_and_Analytics/blob/main/Week1.pdf))
 
 ---
 
