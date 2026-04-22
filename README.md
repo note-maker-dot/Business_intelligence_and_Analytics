@@ -5,7 +5,7 @@
 
 [![Last Updated](https://img.shields.io/badge/Updated-April_2026-blue?style=for-the-badge)](https://github.com/your-username)
 [![Format](https://img.shields.io/badge/Format-Searchable_PDF-red?style=for-the-badge)](https://github.com/your-username)
-[![Price](https://img.shields.io/badge/Price-₹149-success?style=for-the-badge)](YOUR_PAYMENT_LINK)
+[![Price](https://img.shields.io/badge/Price-₹99-success?style=for-the-badge)](YOUR_PAYMENT_LINK)
 
 ---
 
@@ -25,7 +25,7 @@ Before purchasing, review our high-resolution samples to verify the quality:
 ## 🚀 Instant Download: Full 12-Week Guide
 Get the complete **Business Intelligence Master Revision PDF** with automated delivery to your email.
 
-### **[👉 Buy BI & Analytics Notes (₹149 / $1.59)](YOUR_PAYMENT_LINK)**
+### **[👉 Buy BI & Analytics Notes (₹99)](YOUR_PAYMENT_LINK)**
 *Payment secured by [Razorpay/Instamojo]. Supports UPI, GPay, PhonePe, and Cards.*
 
 * **Search Terms:** Business Intelligence study material, Data Analytics PDF notes, NPTEL Solved Assignments 2026.
